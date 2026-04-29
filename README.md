@@ -1,5 +1,7 @@
 # actions-ecosystem/action-add-labels
 
+🏷️ GitHub Action to add labels
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions-ecosystem/action-add-labels](https://github.com/actions-ecosystem/action-add-labels).
 
 ## Versions

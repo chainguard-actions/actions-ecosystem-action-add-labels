@@ -1,5 +1,6 @@
 {
   "owner": "actions-ecosystem",
   "name": "action-add-labels",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "🏷️ GitHub Action to add labels"
 }
