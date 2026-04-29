@@ -1,6 +1,12 @@
 # actions-ecosystem/action-add-labels
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/actions-ecosystem/action-add-labels](https://github.com/actions-ecosystem/action-add-labels).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v1.1.0 | [`v1.1.0`](https://github.com/chainguard-actions/action-add-labels/tree/v1.1.0) | — |
 
 ## Privacy
 
