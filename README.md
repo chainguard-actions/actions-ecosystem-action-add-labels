@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v1.1.0 | [`v1.1.0`](https://github.com/chainguard-actions/action-add-labels/tree/v1.1.0) | — |
+| v1.1.0 | [`v1.1.0`](https://github.com/chainguard-actions/actions-ecosystem--action-add-labels/tree/v1.1.0) | — |
 
 ## Privacy
 
