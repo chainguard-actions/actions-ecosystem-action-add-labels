@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v1.1.0 | [`v1.1.0`](https://github.com/chainguard-actions/actions-ecosystem-action-add-labels/tree/v1.1.0) | [`bd52874`](https://github.com/actions-ecosystem/action-add-labels/commit/bd52874380e3909a1ac983768df6976535ece7f8) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v1.1.0 | [`v1.1.0`](https://github.com/chainguard-actions/actions-ecosystem-action-add-labels/tree/v1.1.0) | [`bd52874`](https://github.com/actions-ecosystem/action-add-labels/commit/bd52874380e3909a1ac983768df6976535ece7f8) | [`HARDENING.md`](https://github.com/chainguard-actions/actions-ecosystem-action-add-labels/blob/v1.1.0/HARDENING.md) |
 
 ## Privacy
 
